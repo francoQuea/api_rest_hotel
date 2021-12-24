@@ -1,0 +1,2 @@
+Crear un entorno virtual en el directorio raíz, activar el entorno virtual y seguidamente 
+instalar los paquetes que se encuentran en requirements.txt
